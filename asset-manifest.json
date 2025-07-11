@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Gopikasubburaj/Icecream/static/css/main.e6c13ad2.css",
-    "main.js": "/Gopikasubburaj/Icecream/static/js/main.4f919ec5.js",
+    "main.js": "/Gopikasubburaj/Icecream/static/js/main.c4807ead.js",
     "static/js/453.4732b69d.chunk.js": "/Gopikasubburaj/Icecream/static/js/453.4732b69d.chunk.js",
     "static/media/shape.png": "/Gopikasubburaj/Icecream/static/media/shape.1d3c7acf9f26b431cfd6.png",
     "static/media/icecream.png": "/Gopikasubburaj/Icecream/static/media/icecream.c6b5419de5c43cbeff46.png",
@@ -12,11 +12,11 @@
     "static/media/hero-bg.png": "/Gopikasubburaj/Icecream/static/media/hero-bg.de71cf39cbe31112f9d3.png",
     "index.html": "/Gopikasubburaj/Icecream/index.html",
     "main.e6c13ad2.css.map": "/Gopikasubburaj/Icecream/static/css/main.e6c13ad2.css.map",
-    "main.4f919ec5.js.map": "/Gopikasubburaj/Icecream/static/js/main.4f919ec5.js.map",
+    "main.c4807ead.js.map": "/Gopikasubburaj/Icecream/static/js/main.c4807ead.js.map",
     "453.4732b69d.chunk.js.map": "/Gopikasubburaj/Icecream/static/js/453.4732b69d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4f919ec5.js"
+    "static/js/main.c4807ead.js"
   ]
 }
